@@ -36,4 +36,4 @@ These insights empower stakeholders with key business metrics, enalog strategic 
 This project is licensed under the [MIT License](LICENSE). You are freee to use, modify, and share this project with proper attribution.
 
 ## 🌟About Me
-Hi there! I'm **Valentina Samboni Rougerio**. I'm an early Data Scientist 
+Hi there! I'm **Valentina Samboni Rougerio**. I started out in Civil Engineering, fell for data, and earnd my master's in Data Sciende at CCNY. After some time away, I'm back to shape my skills, one project a a time.
